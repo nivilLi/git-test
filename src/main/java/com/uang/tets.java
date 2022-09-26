@@ -7,7 +7,7 @@ public class tets {
         System.out.println("hellofasfsa");
         System.out.println("hellofasfsa");
         System.out.println("hellofasddsffafsdsasdasdsfsa");
-        System.out.println("hellofasfsa");
+        System.out.println("hellofasfsdadda");
         System.out.println("hellofasfsa");
     }
 }
